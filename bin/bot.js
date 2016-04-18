@@ -4,8 +4,6 @@
 
 /**
  * logBot launcher script.
- *
- * @author Luciano Mammino <lucianomammino@gmail.com>
  */
 
 // var DB = require('../lib/db'),
