@@ -1,4 +1,4 @@
-# Wikibot [![Build Status](https://travis-ci.org/RyanPhillips10/logbot.svg?branch=master)](https://travis-ci.org/RyanPhillips10/logbot)
+# Wikibot [![Build Status](https://travis-ci.org/RyanPhillips10/WikiBot.svg?branch=master)](https://travis-ci.org/RyanPhillips10/WikiBot)
 
 This project is an example of a bot integration with Slack. This bot is used to query the University Innovation Fellows wiki and return results.
 
