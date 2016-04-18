@@ -9,10 +9,10 @@
 // var DB = require('../lib/db'),
 var WikiBot = require('../lib/WikiBot');
 
-var express = require('express');
-var app = express();
+// var express = require('express');
+// var app = express();
 
-app.set('port', (process.env.PORT || 5000));
+// app.set('port', (process.env.PORT || 5000));
 
 /**
  * Environment variables used to configure the bot:
