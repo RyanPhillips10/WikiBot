@@ -12,7 +12,7 @@ Add Wikibot to your slack channel and then reference it with the command 'wikibo
 
 Steps to use:
 
-1. Run 'git clone https://github.com/RyanPhillips10/logbot.git'
+1. Run 'git clone https://github.com/RyanPhillips10/wikibot.git'
 
 2. Navigate to that directory
 

@@ -8,7 +8,6 @@
  * @author Luciano Mammino <lucianomammino@gmail.com>
  */
 
-
 // var DB = require('../lib/db'),
 var WikiBot = require('../lib/WikiBot');
 
